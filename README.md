@@ -1,6 +1,6 @@
 # AuthenTech-Complete
 
-Live Link -> [AuthenTech](https://authentech-a2299.web.app/).
+Live Link -> [AuthenTech](https://authentech-9cd3a.web.app/).
 
 
 Firebase Doc -> [Firebase](https://firebase.google.com/docs/web/).
