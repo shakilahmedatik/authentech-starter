@@ -2,7 +2,6 @@
 
 Live Link -> [AuthenTech](https://authentech-a2299.web.app/).
 
-Complete Project -> [AuthenTech-Complete](https://github.com/shakilahmedatik/authentech-complete).
 
 Firebase Doc -> [Firebase](https://firebase.google.com/docs/web/).
 
